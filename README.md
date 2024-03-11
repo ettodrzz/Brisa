@@ -1,2 +1,3 @@
-# Brisa
-My study notes and tiny projects.
+# Contents
+
+[CS50x](./c50x/main.md)
